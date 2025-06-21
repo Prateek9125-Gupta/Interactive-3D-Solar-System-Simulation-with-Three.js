@@ -50,7 +50,11 @@ Add images showing:
 ![Screenshot 2025-06-21 114448](https://github.com/user-attachments/assets/46938984-7040-40bb-9a42-55f818ee2626)
 
 . Mobile responsiveness
-![WhatsApp Image 2025-06-21 at 11 46 22_18fbbe06](https://github.com/user-attachments/assets/705235b1-4d27-4ee0-8b8c-e358376139fc)
-![WhatsApp Image 2025-06-21 at 11 46 21_177a6f8e](https://github.com/user-attachments/assets/fcdbdbea-63c3-4d6f-8d93-d49c68199be8)
+![WhatsApp Image 2025-06-21 at 11 46 22_18fbbe06](https://github.com/user-attachments/assets/6661c125-9222-4f18-9487-515375780091)
+![WhatsApp Image 2025-06-21 at 11 46 21_177a6f8e](https://github.com/user-attachments/assets/12b04ef1-64ee-4589-b197-ee88dd48fa5f)
 
 📸 Video
+
+https://github.com/user-attachments/assets/265e6375-599b-4e5f-a9e0-419ba022c8b1
+
+
